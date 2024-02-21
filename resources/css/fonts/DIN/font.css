@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'DIN Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: local('DIN'), url('DIN Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'DIN Regular';
+  font-style: normal;
+  font-weight: 500;
+  src: local('DIN'),
+  url('DIN Medium.woff') format("woff"),
+  url('DIN Medium.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'DIN Regular';
+  font-style: normal;
+  font-weight: 700;
+  src: local('DIN'), url('DIN Bold.ttf') format('truetype');
+}

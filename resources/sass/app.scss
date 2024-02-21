@@ -1,0 +1,22 @@
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+// fontawesome
+@import '@fortawesome/fontawesome-free/css/all.min.css';
+
+// Font
+@import '../css/fonts/DIN/font.css';
+@import '../css/fonts/Fruit/font.css';
+
+@import 'datatables.net-bs5/css/dataTables.bootstrap5.min.css';
+@import 'datatables.net-responsive-bs5/css/responsive.bootstrap5.min.css';
+@import 'datatables.net-buttons-bs5/css/buttons.bootstrap5.min.css';
+
+@import 'select2/dist/css/select2.min.css';
+
+ul.dtr-details > li {
+    text-align: center;
+}
